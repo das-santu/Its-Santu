@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.set_page_config(layout="wide", initial_sidebar_state="collapsed", page_title="Its Santu")
+st.set_page_config(layout="wide", initial_sidebar_state="collapsed", page_title="Its Santu", page_icon="images/favicon.ico")
 
 # Inject custom CSS to remove padding and margins
 hide_streamlit_style = """
